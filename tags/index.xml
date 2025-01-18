@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on AKIRA MATO</title>
-    <link>https://akirax.de/tags/</link>
-    <description>Recent content in Tags on AKIRA MATO</description>
-    <generator>Hugo</generator>
-    <language>de-DE</language>
-    <atom:link href="https://akirax.de/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Tags on AKIRAMATO</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on AKIRAMATO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 17 Jan 2025 17:51:35 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pin</title>
+        <link>http://localhost:1313/tags/pin/</link>
+        <pubDate>Fri, 17 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/pin/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Caffenol</title>
+        <link>http://localhost:1313/tags/caffenol/</link>
+        <pubDate>Fri, 03 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/caffenol/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ilford Delta</title>
+        <link>http://localhost:1313/tags/ilford-delta/</link>
+        <pubDate>Fri, 03 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/ilford-delta/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Leica</title>
+        <link>http://localhost:1313/tags/leica/</link>
+        <pubDate>Fri, 03 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/leica/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Kodak Gold</title>
+        <link>http://localhost:1313/tags/kodak-gold/</link>
+        <pubDate>Thu, 02 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/kodak-gold/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Recipe</title>
+        <link>http://localhost:1313/tags/recipe/</link>
+        <pubDate>Thu, 02 Jan 2025 17:51:35 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/recipe/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>
