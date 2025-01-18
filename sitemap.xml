@@ -2,35 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akiramato.de/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-19T00:15:51+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/vintage-minolta-md50mm/vintage-minolta-md50mm/</loc>
+    <lastmod>2025-01-19T00:15:51+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/rezept-kodakgold-caffenol/</loc>
+    <lastmod>2025-01-18T23:59:44+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/wooden-rhine-bridge/</loc>
     <lastmod>2025-01-18T22:36:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://akiramato.de/posts/wooden-rhine-bridge/</loc>
-    <lastmod>2025-01-18T22:36:56+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://akiramato.de/posts/lake-constance/</loc>
+    <loc>http://localhost:1313/posts/lake-constance/</loc>
     <lastmod>2025-01-18T22:27:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://akiramato.de/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://akiramato.de/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://akiramato.de/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://akiramato.de/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
